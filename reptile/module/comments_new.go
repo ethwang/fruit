@@ -7,8 +7,9 @@ import (
 	"strconv"
 	"strings"
 
-	"ethan.com/reptile/basis"
-	"ethan.com/reptile/util"
+	"ethan.com/fruit/reptile/basis"
+	"ethan.com/fruit/reptile/util"
+
 	"github.com/PuerkitoBio/goquery"
 )
 

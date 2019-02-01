@@ -4,7 +4,7 @@ import (
 	"log"
 	"strings"
 
-	"ethan.com/reptile/basis"
+	"ethan.com/fruit/reptile/basis"
 	"github.com/PuerkitoBio/goquery"
 )
 

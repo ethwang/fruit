@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"time"
 
-	"ethan.com/reptile/module"
-	"ethan.com/reptile/util"
+	"ethan.com/fruit/reptile/module"
+	"ethan.com/fruit/reptile/util"
 )
 
 /*
